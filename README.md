@@ -49,9 +49,3 @@ A dashboard was built to visualize:
 
 ![Dashboard](images/dashboard.png)
 
-## 🚀 How to Run the Project
-```bash
-git clone https://github.com/your-username/employee-churn-prediction.git
-cd employee-churn-prediction
-pip install -r requirements.txt
-jupyter notebook
